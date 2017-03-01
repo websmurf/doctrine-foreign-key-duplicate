@@ -1,0 +1,10 @@
+{
+  "name": "websmurf/doctrine-duplicate-drop-foreign-key",
+  "license": "MIT",
+  "require": {
+    "doctrine/orm": "^2.5.5"
+  },
+  "autoload": {
+    "classmap": ["Entities"]
+  }
+}
